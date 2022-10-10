@@ -1,0 +1,27 @@
+{
+  "lingkungan 1":{
+    "nama": "SMA 1 Pangaribuan",
+    "alamat": "Pangaribuan",
+    "distrik": "Tarutung"
+  },
+  "lingkungan 2":{
+    "nama": "SMA 2 Pahae",
+    "alamat": "Pahae Jae",
+    "distrik": "Tarutung"
+  },
+  "lingkungan 3":{
+    "nama": "SMA 3 Najumambe",
+    "alamat": "Najumambe Julu",
+    "distrik": "Simalungun"
+  },
+  "lingkungan 4":{
+    "nama": "SMA 4 Parsoburan",
+    "alamat": "Parsoburan 1",
+    "distrik": "Simalungun"
+  },
+  "lingkungan 5":{
+    "nama": "SMA 5 Pararean",
+    "alamat": "Pararean",
+    "distrik": "Tarutung"
+  }
+}
